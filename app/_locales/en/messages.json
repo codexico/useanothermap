@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "useanothermap",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Use google maps instead of bing maps, for example in facebook",
+    "description": "The description of the application"
+  }
+}
